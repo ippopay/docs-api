@@ -16,8 +16,7 @@ with npm
 
 NPM Package Link : [https://www.npmjs.com/package/angular-ippopay](https://www.npmjs.com/package/angular-ippopay)
 
-```bash
-```
+
 
 ```bash
 npm install --save angular-ippopay
