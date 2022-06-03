@@ -11,7 +11,7 @@ description: >-
 We distribute our SDK from the Maven Central Repository. To begin with this SDK open your build.gradle file of Module:app and add the following dependency.
 
 ```
-implementation 'com.ippopay:IppoPaySDK:2.0.8'
+implementation 'com.ippopay:IppoPaySDK:2.0.9'
 ```
 
 ### Step - 2 - Initialize SDK

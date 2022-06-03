@@ -8,6 +8,8 @@ description: >-
 
 ## IppoPay Payment
 
+[![pub package](https://img.shields.io/pub/v/ippo\_pay.svg)](https://pub.dev/packages/ippo\_pay)
+
 A Flutter plugin for making payments via IppoPay Payment Gateway. Fully supports Android and iOS.
 
 ### Installation
@@ -15,7 +17,7 @@ A Flutter plugin for making payments via IppoPay Payment Gateway. Fully supports
 In the `dependencies:` section of your `pubspec.yaml`, add the following line:
 
 ```yaml
-ippo_pay: ^1.0.0
+ippo_pay: ^0.0.1
 ```
 
 Import in your project:
