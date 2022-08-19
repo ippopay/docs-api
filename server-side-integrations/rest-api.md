@@ -110,9 +110,7 @@ Use this API to get your order details.
             "paymentModes": "cc,db,nb,upi",
             "status": "created",
             "amount": 100.00,
-            "order_id": "order_G@nzg3qBq", 
-            "payment_url": "https://pay.ippopay.com/order/G@nzg3qBq",
-           
+            "order_id": "order_G@nzg3qBq"           
             }
         }
     }
